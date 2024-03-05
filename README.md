@@ -13,6 +13,9 @@ Now, I'm focused on advancing my expertise in machine learning, eager to contrib
 [![Jupyter](https://img.shields.io/badge/jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white&labelColor=101010)]()
 [![VSCode](https://img.shields.io/badge/visualstudiocode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white&labelColor=101010)]()
 [![PowerShell](https://img.shields.io/badge/powershell-5391FE?style=for-the-badge&logo=powershell&logoColor=white&labelColor=101010)]()
+[![microsoftexcel](https://img.shields.io/badge/microsoftexcel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white&labelColor=101010)]()
+
+
 
 
 
