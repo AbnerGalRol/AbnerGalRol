@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+As a recent Business Management graduate who has delved into the dynamic world of data science, I've discovered a profound passion for transforming raw data into actionable insights that drive informed decision-making. Equipped with hands-on experience from a rigorous Data Science Bootcamp, where I actively engaged in 16 diverse projects, I've honed a robust skill set encompassing data inspection, cleaning, and comprehensive exploratory analysis.
+
+My journey into data science has been nothing short of exhilarating. Throughout the Bootcamp, I immersed myself in various techniques, from crafting SQL queries to developing sophisticated machine learning models and implementing neural networks. This immersive experience fueled my fascination with the potential of data, particularly in the realm of predictive analytics.
+
+Driven by a relentless curiosity and a desire for continuous growth, my focus now lies in furthering my expertise in machine learning. I'm eager to delve deeper into the intricacies of building predictive models, leveraging advanced algorithms to unearth meaningful patterns, and contributing to impactful solutions in an ever-evolving data-driven landscape.
+
+I am enthusiastic about the opportunity to apply my skills and passion for data science to tackle complex challenges and drive innovation in the field. As I embark on this journey, I remain committed to lifelong learning and the pursuit of excellence in data-driven decision-making.
+
 <!--
 **AbnerGalRol/AbnerGalRol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
