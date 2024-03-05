@@ -1,6 +1,6 @@
 ### Hi, my name is Abner Galan 👋
 
-![Header](./https://github.com/AbnerGalRol/AbnerGalRol/blob/main/GitHub%20header%20Abner.png)
+![Header](/https://github.com/AbnerGalRol/AbnerGalRol/blob/main/GitHub%20header%20Abner.png)
 
 As a recent Business Management graduate turned data enthusiast, I've found my passion lies in transforming raw data into actionable insights. With hands-on experience from a rigorous Data Science Bootcamp, I've honed skills in data inspection, cleaning, and exploratory analysis across 16 diverse projects.
 
