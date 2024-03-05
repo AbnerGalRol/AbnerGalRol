@@ -10,7 +10,9 @@ Now, I'm focused on advancing my expertise in machine learning, eager to contrib
 
 [![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)]()
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)]()
+
 [![Jupyter](https://img.shields.io/badge/Jupyter-#F37626?style=for-the-badge&logo=jupyter&logoColor=white&labelColor=101010)]()
+
 [![visualstudiocode](https://img.shields.io/badge/visualstudiocode-##007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white&labelColor=101010)]()
 
 
